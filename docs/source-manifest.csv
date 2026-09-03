@@ -1,9 +1,15 @@
 category,title,status,local_file,live_source
-Local packet,Charlie Kirk / Tyler Robinson Redacted Evidence Packet,Included,Charlie_Kirk_Tyler_Robinson_Redacted_Evidence_Packet.pdf,
-Primary archive,Tyler Robinson Search Warrant Affidavits,Live source,,https://andreaburkhart.substack.com/p/tyler-robinson-search-warrant-affidavits
-Primary archive,Charlie Kirk Legal Documents,Live source,,https://andreaburkhart.substack.com/p/charlie-kirk-legal-documents
-Court filing,State Memorandum in Support of Preliminary Hearing Bindover,Live archive entry,,https://andreaburkhart.substack.com/p/charlie-kirk-legal-documents
-Court filing,Defendant Tyler James Robinson Preliminary Hearing Briefing,Live archive entry,,https://andreaburkhart.substack.com/p/charlie-kirk-legal-documents
-Court filing,State Reply Supporting Preliminary Hearing Bindover,Live archive entry,,https://andreaburkhart.substack.com/p/charlie-kirk-legal-documents
-Court ruling,Ruling and Order on Preliminary Hearing Bindover 9-2-26,Live archive entry,,https://andreaburkhart.substack.com/p/charlie-kirk-legal-documents
-Transcript,Final Preliminary Hearing / Sept. ruling transcript,Live source,,https://www.rev.com/transcripts/ut-v-tyler-robinson-final-preliminary-hearing
+Local packet,Redacted/highlighted evidence packet,Included,Charlie_Kirk_Tyler_Robinson_Redacted_Evidence_Packet.pdf,
+Audit,Script receipt audit,Included,script-receipt-audit.html,
+Audit,Video timestamp index,Included,video-timestamp-index.html,
+Audit,Document acquisition status,Included,document-acquisition-status.html,
+Primary archive,Tyler Robinson Search Warrant Affidavits,Verified external,,https://andreaburkhart.substack.com/p/tyler-robinson-search-warrant-affidavits
+Primary archive,Charlie Kirk Legal Documents,Verified external,,https://andreaburkhart.substack.com/p/charlie-kirk-legal-documents
+Court filing,Dkt 702 State bindover memo,Verified external,,https://andreaburkhart.substack.com/api/v1/file/b751fcf7-c7dd-447b-bfd8-59b76408afc0.pdf
+Court filing,Dkt 706 Defense briefing,Verified external,,https://andreaburkhart.substack.com/api/v1/file/1d3ce795-67cd-4dcb-bb72-a78e64551a42.pdf
+Court filing,Dkt 712 State reply,Verified external,,https://andreaburkhart.substack.com/api/v1/file/6ed59130-62a7-479a-853c-621cde405142.pdf
+Court filing,Dkt 728 Discovery status,Verified external,,https://andreaburkhart.substack.com/api/v1/file/cd14df85-2717-490d-b335-9cf408d937d2.pdf
+Court ruling,Dkt 739 Bindover ruling,Verified external,,https://andreaburkhart.substack.com/api/v1/file/f1bcada6-904e-4977-9d16-594d1f50b257.pdf
+Forensic filing,Ballistics motion + ATF report,Verified external,,https://cdn01.dailycaller.com/wp-content/uploads/2026/04/tyler-robinson-ballistics-motion.pdf
+Video,TriggerSmart all 5 days condensed,Verified video,,https://www.youtube.com/watch?v=F5bZHLuANUU
+Video,TriggerSmart Sept 1 condensed ruling,Verified video,,https://www.youtube.com/watch?v=WdkYw2YvmaA
