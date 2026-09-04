@@ -1,0 +1,197 @@
+SECTION 2 — WHAT HAS THE DEFENSE ACTUALLY CONCEDED — AND WHAT DOES “NOT GUILTY” MEAN?
+
+There is a subtle issue in this case that could completely change the way people interpret the defense arguments.
+
+You have heard defense lawyers refer to “the shooter.” You have heard them argue about what happened when the shot was fired. You have heard them argue about DNA, the texts, the rifle, the trajectory, and location evidence.
+
+So does that mean the defense has conceded all of those things are authentic and accurate?
+
+No.
+
+Not merely because counsel discusses them.
+
+[SHOW: Judge Graf's final preliminary-hearing ruling and arraignment transcript — https://www.rev.com/transcripts/ut-v-tyler-robinson-final-preliminary-hearing]
+
+The most important language comes directly from Judge Graf's ruling. He said the findings and conclusions at the preliminary hearing apply only under the preliminary-hearing standard and do not determine Tyler Robinson's guilt, the ultimate credibility of witnesses, the weight of the evidence, or the admissibility of evidence at trial.
+
+That is enormous.
+
+It means a lawyer can say, in substance, “Even if we assume the State's version for purposes of this particular argument, the State still hasn't proven this legal element.”
+
+That is called arguing in the alternative.
+
+And we have an extremely clear example in the final hearing itself.
+
+When the defense was arguing the child-presence issue, counsel said, in substance, that there was no evidence Robinson, “if he was the shooter,” knew children were present.
+
+“If he was the shooter.”
+
+That is not a concession that Tyler was the shooter.
+
+It is essentially saying: Judge, even if you accept the State's identity theory for this argument, this separate element still has not been proven.
+
+The same applies when the defense talks about “the shooter” firing one shot downward from the roof while challenging the great-risk aggravator. They can assume the State's shooting scenario temporarily to argue that the alleged conduct still does not satisfy a particular statute.
+
+[SHOW: Utah Rule of Criminal Procedure 7B — https://legacy.utcourts.gov/rules/view.php?rule=7B&type=urcrp]
+
+Rule 7B is the preliminary-hearing rule. The State had the burden of establishing probable cause. This was not the final trial on guilt.
+
+And there is an important difference between making an argument based on assumed facts and actually stipulating to a fact.
+
+[SHOW: Utah Rule of Criminal Procedure 26 — https://legacy.utcourts.gov/rules/view.php?rule=26&type=urcrp]
+
+Utah procedure recognizes formal stipulations made in writing and filed with the court or made on the record. A real stipulation can settle an issue.
+
+I have not identified a blanket stipulation in this record where the defense says:
+
+“We agree Tyler Robinson was the shooter.”
+
+Or:
+
+“We stipulate every text was authored by Tyler.”
+
+Or:
+
+“We stipulate that every location record, every DNA interpretation, and every prosecution timeline conclusion is correct and admissible at trial.”
+
+In fact, the defense has already challenged several of those areas directly.
+
+Let's start with DNA.
+
+During final argument the defense attacked the State's statement that Tyler's DNA was “all over” the rifle. Defense counsel focused on the actual laboratory language and the experts' source-attribution limitations.
+
+[PLAY: TriggerSmart — defense DNA and ballistics closing at 2:05:23 — https://www.youtube.com/watch?v=WdkYw2YvmaA&t=7523s]
+
+The defense argued that the likelihood-ratio evidence should not be converted into an absolute statement that a particular piece of biological material was definitively sourced to Tyler Robinson in the categorical way the prosecution was describing it.
+
+Whether that defense argument ultimately persuades a jury is a different question.
+
+The important point for us right now is that the defense clearly has NOT conceded the prosecution's interpretation of the DNA.
+
+The same thing happened with firearms evidence.
+
+The defense emphasized that the recovered projectile fragment was not individualized to the rifle and that other .30-caliber-class firearms could share the relevant class characteristics.
+
+So again, they are not conceding the prosecution's ultimate firearm conclusion merely because they talk about “the rifle” and “the shot.”
+
+Now the texts are more interesting.
+
+The prosecution introduced photographs of the messages from Lance Twiggs's phone, but testimony also established that investigators later performed a Cellebrite extraction of Lance's phone and reviewed the relevant text thread.
+
+[SHOW: Preliminary Hearing Day 4 transcript — https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-4]
+
+At the final hearing, defense counsel referred to State's Exhibit 16.1 as what the State “presents as” text messages between Tyler Robinson and Lance Twiggs and then attacked the context and legal meaning of particular messages.
+
+That is not the same thing as a formal concession that every message, author attribution, timestamp, surrounding context, or forensic interpretation is permanently established for trial.
+
+Could the State ultimately authenticate those messages very strongly?
+
+Absolutely.
+
+The Cellebrite extraction matters. Provider records could matter even more. Apple, Google, Discord, carrier and device records may provide independent corroboration.
+
+But the defense's own discovery filing now makes another point important.
+
+The digital review is not finished.
+
+The defense reported millions of device artifacts, approximately 183 gigabytes of initial Apple, Google, Discord, AT&T and Verizon provider returns, another approximately 170-gigabyte Apple production received in August, more than one million Discord communications, and at least 25,253 location records.
+
+That is still being processed and reviewed.
+
+So it would be a mistake to say:
+
+“The defense talked about the location evidence, therefore they have conceded every location conclusion.”
+
+No.
+
+They are still reviewing an enormous digital discovery set.
+
+And then something happened immediately after Judge Graf bound Tyler over that makes the defense position unmistakable.
+
+The judge asked whether Tyler wanted to enter pleas.
+
+Defense counsel waived reading of the information and entered pleas of NOT GUILTY on Tyler Robinson's behalf to all counts.
+
+[PLAY: TriggerSmart — arraignment and not-guilty pleas at approximately 4:22:47 — https://www.youtube.com/watch?v=WdkYw2YvmaA&t=15767s]
+
+Now we need another caution here.
+
+A not-guilty plea does not mean the defendant has proven innocence.
+
+And it does not tell us what the eventual outcome will be.
+
+A not-guilty plea means, at its core, that the defendant is requiring the government to prove its case and preserving the ability to litigate defenses, admissibility, experts, discovery and factual disputes.
+
+And high-profile criminal history gives us several excellent examples.
+
+Bryan Kohberger maintained a not-guilty posture for more than two years in the University of Idaho murders case. His lawyers litigated DNA, discovery, venue, experts and the death penalty. Then, in July 2025, shortly before trial, Kohberger pleaded guilty to the murders in a deal that removed the death penalty.
+
+[SHOW: AP reporting on Kohberger's guilty plea — https://apnews.com/article/fc03e31c8a35deb0718ae15e2887481a]
+
+There is a postscript: Kohberger is now pursuing post-conviction relief attempting to withdraw that guilty plea. That does not change the procedural lesson: years of a not-guilty defense posture did not prevent a later guilty plea.
+
+Nikolas Cruz did something similar in the Parkland school shooting case.
+
+He initially pleaded not guilty and litigated the case for years. Then, in October 2021, he changed course and pleaded guilty to 17 murders and 17 attempted murders before the penalty proceeding.
+
+[SHOW: AP report on Nikolas Cruz guilty plea — https://www.latimes.com/world-nation/story/2021-10-20/nikolas-cruz-pleads-guilty-parkland-school-shooting-massacre]
+
+Dzhokhar Tsarnaev took another path.
+
+He pleaded not guilty to the Boston Marathon bombing charges.
+
+[SHOW: Report of Tsarnaev's not-guilty plea — https://www.cbsnews.com/news/boston-bombing-suspect-dzhokhar-tsarnaev-pleads-not-guilty/]
+
+He did not later plead guilty. He went to trial and was convicted.
+
+And there is a brand-new high-profile example as of this week.
+
+Duane “Keffe D” Davis pleaded not guilty in the Tupac Shakur murder case, took the case to trial, and was convicted by a Las Vegas jury in August 2026.
+
+[SHOW: AP report on the Tupac murder verdict — https://apnews.com/article/90c08ae150f366c83938c425c73adb9c]
+
+So when somebody says:
+
+“Tyler pleaded not guilty, therefore his lawyers must know he is innocent,”
+
+that does not follow.
+
+And when somebody says:
+
+“His lawyers referred to the shooter, therefore they've admitted Tyler did it,”
+
+that does not follow either.
+
+The correct question is much narrower:
+
+What has the defense actually stipulated to?
+
+What evidence has the defense specifically challenged?
+
+What evidence did it simply choose not to challenge at this preliminary stage?
+
+And what evidence remains subject to authentication, admissibility, expert testimony, discovery review and cross-examination at trial?
+
+Right now, the safest description of the defense position is this:
+
+They have entered not-guilty pleas to every count.
+
+They have expressly challenged major portions of the State's DNA and firearm interpretations, the great-risk aggravator, political targeting, child-presence knowledge, and the witness-tampering theory.
+
+They have argued from the State's assumed shooting scenario where doing so helps them attack a separate legal element.
+
+They have used the State's text exhibits to argue context and meaning without thereby making a blanket concession that every disputed digital proposition is forever settled.
+
+And the defense itself says massive volumes of Apple, Google, Discord, AT&T, Verizon, device, location and other forensic discovery are still being processed and reviewed.
+
+So this issue remains much more open than the phrase “the defense admits there was a shooter” makes it sound.
+
+And this gives us a rule we should use throughout the rest of tonight's investigation:
+
+Do not confuse an assumption made for argument with a stipulation.
+
+Do not confuse a decision not to contest something at a preliminary hearing with permanently waiving the issue at trial.
+
+And do not confuse a not-guilty plea with evidence of either guilt or innocence.
+
+The receipts determine those questions.
